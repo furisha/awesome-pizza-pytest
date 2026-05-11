@@ -1,0 +1,10 @@
+{
+    "customer": {
+        "name": "Test Customer"
+    },
+    "order": {
+        "item": "Margherita Pizza",
+        "quantity": 2
+    },
+    "invalid_order_id": "INVALID-ORDER-999"
+}
